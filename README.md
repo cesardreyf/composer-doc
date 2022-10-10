@@ -6,7 +6,6 @@ Esta es una traducción no oficial de la documentación de [Composer](https://ge
 
 - [Introducción](#introducción)
 
-
 ## Introducción
 
-Aquí iría texto.
+Composer es una herramienta para gestionar dependencias en **PHP**. Este te permite declarar las bibliotecas de las que depende tu proyecto y administrarlas (**instalar**/**actualizar**).
