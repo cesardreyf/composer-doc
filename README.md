@@ -6,6 +6,7 @@ Esta es una traducción no oficial de la documentación de [Composer](https://ge
 
 - [Introducción](#introducción)
   - [Gestión de dependencias](#gestión-de-dependencias)
+  - [Requisitos](#requisitos)
 
 ## Introducción
 
@@ -27,3 +28,7 @@ Composer:
 - Actualiza todas las dependencias con un solo comando
 
 Ver el capítulo de [Uso básico](#a-implementar) para obtener más detalles sobre la declaración de dependencias.
+
+### Requisitos
+
+Composer, en su última versión, requiere de **PHP 7.2.5** para ejecutarse.
